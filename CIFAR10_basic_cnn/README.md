@@ -11,4 +11,4 @@ Test Accuracy of horse: 75% (753/1000)
 Test Accuracy of  ship: 75% (752/1000)  
 Test Accuracy of truck: 84% (840/1000)  
 
-## Test Accuracy (Overall): 71% (7102/10000)  
+## Test Accuracy (Overall): 71% (7102/10000)
